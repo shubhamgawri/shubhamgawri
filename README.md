@@ -1,8 +1,9 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-# Hello there, I'm Shubham 👋
+<h1><p align="center">Hello there, I'm Shubham 👋</p></h1>
+  
 I'm an engineering student @ Fr. CRCE
-
+  
 [![](https://visitcount.itsvg.in/api?id=shubhamgawri&icon=1&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
@@ -17,8 +18,6 @@ I'm an engineering student @ Fr. CRCE
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
+#### 💻 Random Programming Joke:
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
