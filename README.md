@@ -23,6 +23,6 @@ I'm an engineering student @ Fr. CRCE
 
 ---
 
-### 🤓 Random Programming Jokes :
+### 🤓 Random Developer Jokes :
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=watermelon)
 
