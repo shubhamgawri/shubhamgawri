@@ -1,8 +1,8 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 ```
-█░█ █▀▀ █░░ █░░ █▀█   █░█░█ █▀█ █▀█ █░░ █▀▄ █   ▀█▀ █░█ █ █▀   █ █▀   █▀ █░█ █░█ █▄▄ █░█ ▄▀█ █▀▄▀█
-█▀█ ██▄ █▄▄ █▄▄ █▄█   ▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀ ▄   ░█░ █▀█ █ ▄█   █ ▄█   ▄█ █▀█ █▄█ █▄█ █▀█ █▀█ █░▀░█ 
+█░█ █▀▀ █░░ █░░ █▀█   █░█░█ █▀█ █▀█ █░░ █▀▄ ░   ▀█▀ █░█ █ █▀   █ █▀   █▀ █░█ █░█ █▄▄ █░█ ▄▀█ █▀▄▀█ █
+█▀█ ██▄ █▄▄ █▄▄ █▄█   ▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀ █   ░█░ █▀█ █ ▄█   █ ▄█   ▄█ █▀█ █▄█ █▄█ █▀█ █▀█ █░▀░█ ▄
 ```
 * I'm an engineering student @ Fr. CRCE  
 * Visit my website to know more ;)
