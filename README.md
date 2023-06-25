@@ -1,8 +1,11 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<h1><p align="center">Welcome to the Matrix!</p></h1>
-  
-I'm an engineering student @ Fr. CRCE
+```
+█░█ █▀▀ █░░ █░░ █▀█   █░█░█ █▀█ █▀█ █░░ █▀▄ █   ▀█▀ █░█ █ █▀   █ █▀   █▀ █░█ █░█ █▄▄ █░█ ▄▀█ █▀▄▀█
+█▀█ ██▄ █▄▄ █▄▄ █▄█   ▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀ ▄   ░█░ █▀█ █ ▄█   █ ▄█   ▄█ █▀█ █▄█ █▄█ █▀█ █▀█ █░▀░█ 
+```
+* I'm an engineering student @ Fr. CRCE  
+* Visit my website to know more ;)
   
 [![](https://visitcount.itsvg.in/api?id=shubhamgawri&icon=1&color=3)](https://visitcount.itsvg.in)
 
