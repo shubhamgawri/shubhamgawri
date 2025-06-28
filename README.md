@@ -7,7 +7,7 @@
 * I'm an Software Developer @ TCS BaNCS 
 * Visit my website to know more ; )
   
-[![](https://visitcount.itsvg.in/api?id=shubhamgawri&icon=1&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=shubhamgawri&base=1300)
 
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shubhamsg09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubham.gawri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-gawri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShubhamGawri) [![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/10977424/shubham-gawri) 
