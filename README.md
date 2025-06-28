@@ -4,7 +4,7 @@
 █░█ █▀▀ █░░ █░░ █▀█   █░█░█ █▀█ █▀█ █░░ █▀▄ ░   ▀█▀ █░█ █ █▀   █ █▀   █▀ █░█ █░█ █▄▄ █░█ ▄▀█ █▀▄▀█ █
 █▀█ ██▄ █▄▄ █▄▄ █▄█   ▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀ █   ░█░ █▀█ █ ▄█   █ ▄█   ▄█ █▀█ █▄█ █▄█ █▀█ █▀█ █░▀░█ ▄
 ```
-* I'm an engineering student @ Fr. CRCE  
+* I'm an Software Developer @ TCS BaNCS 
 * Visit my website to know more ; )
   
 [![](https://visitcount.itsvg.in/api?id=shubhamgawri&icon=1&color=3)](https://visitcount.itsvg.in)
